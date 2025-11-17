@@ -1,0 +1,58 @@
+# Compiled output
+/dist
+/tmp
+/out-tsc
+
+# Runtime data
+*.pid
+*.seed
+*.pid.lock
+
+# Coverage directories
+lib-cov/
+coverage/
+.nyc_output/
+
+# Dependency directories
+node_modules/
+jspm_packages/
+bower_components/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Optional npm cache directory
+.npm/
+
+# IDEs and editors
+.idea/
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
+.vscode/ # VS Code specific files, with exceptions
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Build artifacts and temporary files
+.grunt/
+.sass-cache/
+connect.lock
+typings/
+
+# Other common exclusions
+*.DS_Store
+Thumbs.db

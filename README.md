@@ -1,5 +1,3 @@
-<p style="text-align: center;">
-
 ### It is a period of civil war.
 ### Rebel spaceships, striking
 ### from a hidden base, have
@@ -7,6 +5,7 @@
 ### against the evil Galactic
 ### Empire.
 
+<br />
 
 ### During the battle, rebel
 ### spies managed to steal
@@ -17,6 +16,7 @@
 ### power to destroy an entire
 ### planet.
 
+<br />
 
 ### Pursued by the Empire's
 ### sinister agents, Princess
@@ -25,5 +25,3 @@
 ### stolen plans that can save
 ### her people and restore
 ### freedom to the galaxy....
-
-</p>
